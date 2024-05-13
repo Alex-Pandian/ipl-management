@@ -1,0 +1,32 @@
+.menu {
+    color: white;
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(6, 11, 118);
+}
+
+.add-match{
+    height: 50px;
+    background-color: rgb(6, 11, 118);
+    text-align: center;
+
+}
+
+.add-match h1{
+    color: white;
+    font-size: 30px;
+}
+
+.add-match-form{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+
+
